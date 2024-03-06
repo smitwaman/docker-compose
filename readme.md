@@ -1,4 +1,4 @@
-### Microservices
+### Deploying multiapp using docker compose yaml file and run with docker compose apply up. 
 
 These simple microservices enable us to **focus on** learning the tools - Docker, Kubernetes, CI, CD and  build the infrastructure needed around typical microservices.
 
